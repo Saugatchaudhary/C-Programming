@@ -9,7 +9,7 @@ data_type variable_name1;
 We cannot use ternary operator directly in data_type declaration otherwise output will be always value2
 
 
-data_type variable_name2 = (condition) ? same_vaiable_name = value1 : same_variable_name = value2;
+data_type variable_name2 = (condition) ? vaiable_name2 = value1 : variable_name2 = value2;
 so using this syntax when value is input in variable_name1
 
 
